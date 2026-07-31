@@ -1,0 +1,152 @@
+{
+ "responses_cov000_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov000_core_doc_qwen3-8b.jsonl",
+  "seconds": 588
+ },
+ "responses_cov010_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov010_core_doc_qwen3-8b.jsonl",
+  "seconds": 596
+ },
+ "responses_cov025_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov025_core_doc_qwen3-8b.jsonl",
+  "seconds": 589
+ },
+ "responses_cov040_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov040_core_doc_qwen3-8b.jsonl",
+  "seconds": 598
+ },
+ "responses_cov055_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov055_core_doc_qwen3-8b.jsonl",
+  "seconds": 581
+ },
+ "responses_cov070_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov070_core_doc_qwen3-8b.jsonl",
+  "seconds": 590
+ },
+ "responses_cov085_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov085_core_doc_qwen3-8b.jsonl",
+  "seconds": 597
+ },
+ "responses_cov100_core_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_core_doc_qwen3-8b.jsonl",
+  "seconds": 592
+ },
+ "responses_cov000_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov000_periph_doc_qwen3-8b.jsonl",
+  "seconds": 591
+ },
+ "responses_cov010_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov010_periph_doc_qwen3-8b.jsonl",
+  "seconds": 586
+ },
+ "responses_cov025_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov025_periph_doc_qwen3-8b.jsonl",
+  "seconds": 595
+ },
+ "responses_cov040_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov040_periph_doc_qwen3-8b.jsonl",
+  "seconds": 600
+ },
+ "responses_cov055_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov055_periph_doc_qwen3-8b.jsonl",
+  "seconds": 601
+ },
+ "responses_cov070_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov070_periph_doc_qwen3-8b.jsonl",
+  "seconds": 609
+ },
+ "responses_cov085_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov085_periph_doc_qwen3-8b.jsonl",
+  "seconds": 600
+ },
+ "responses_cov010_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov010_random_doc_qwen3-8b.jsonl",
+  "seconds": 592
+ },
+ "responses_cov025_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov025_random_doc_qwen3-8b.jsonl",
+  "seconds": 588
+ },
+ "responses_cov040_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov040_random_doc_qwen3-8b.jsonl",
+  "seconds": 586
+ },
+ "responses_cov055_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov055_random_doc_qwen3-8b.jsonl",
+  "seconds": 578
+ },
+ "responses_cov070_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov070_random_doc_qwen3-8b.jsonl",
+  "seconds": 582
+ },
+ "responses_cov085_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov085_random_doc_qwen3-8b.jsonl",
+  "seconds": 581
+ },
+ "responses_cov100_vol030_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol030_doc_qwen3-8b.jsonl",
+  "seconds": 589
+ },
+ "responses_cov100_vol055_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol055_doc_qwen3-8b.jsonl",
+  "seconds": 596
+ },
+ "responses_cov100_vol070_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol070_doc_qwen3-8b.jsonl",
+  "seconds": 591
+ },
+ "responses_cov100_vol085_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol085_doc_qwen3-8b.jsonl",
+  "seconds": 588
+ },
+ "responses_cov100_periph_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_periph_doc_qwen3-8b.jsonl",
+  "note": "복제: responses_cov100_core_doc_qwen3-8b.jsonl"
+ },
+ "responses_cov000_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov000_random_doc_qwen3-8b.jsonl",
+  "note": "복제: responses_cov000_periph_doc_qwen3-8b.jsonl"
+ },
+ "responses_cov100_random_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_random_doc_qwen3-8b.jsonl",
+  "note": "복제: responses_cov100_core_doc_qwen3-8b.jsonl"
+ },
+ "responses_cov100_vol040_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol040_doc_qwen3-8b.jsonl",
+  "note": "복제: responses_cov100_vol030_doc_qwen3-8b.jsonl"
+ },
+ "responses_cov100_vol100_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol100_doc_qwen3-8b.jsonl",
+  "note": "복제: responses_cov100_core_doc_qwen3-8b.jsonl"
+ }
+}

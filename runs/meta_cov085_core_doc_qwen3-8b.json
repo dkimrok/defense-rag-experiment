@@ -1,0 +1,28 @@
+{
+  "variant": "corpus_cov085_core_doc.jsonl",
+  "condition": "cov85_core_doc",
+  "model": "qwen3:8b",
+  "k": 5,
+  "alpha": 0.5,
+  "num_ctx": 16384,
+  "retrieval": "hybrid",
+  "query_cache": true,
+  "ollama_host": "http://127.0.0.1:11434",
+  "num_predict": 256,
+  "think": false,
+  "n_questions": 97,
+  "n_ok": 97,
+  "n_error": 0,
+  "n_trunc_suspect": 0,
+  "max_prompt_tokens": 4791,
+  "recall_at_k_any": 92.3,
+  "aborted": false,
+  "gpu": [
+    {
+      "name": "qwen3:8b",
+      "gpu_pct": 100.0,
+      "size": 7520177356,
+      "size_vram": 7520177356
+    }
+  ]
+}
