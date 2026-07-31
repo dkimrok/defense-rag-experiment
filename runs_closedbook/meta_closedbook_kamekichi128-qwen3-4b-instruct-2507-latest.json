@@ -1,0 +1,17 @@
+{
+  "arm": "closedbook",
+  "model": "kamekichi128/qwen3-4b-instruct-2507:latest",
+  "model_tag": "kamekichi128-qwen3-4b-instruct-2507-latest",
+  "num_ctx": 16384,
+  "num_predict": 256,
+  "think": false,
+  "n_questions": 97,
+  "n_ok": 97,
+  "n_error": 0,
+  "gpu": [
+    {
+      "name": "kamekichi128/qwen3-4b-instruct-2507:latest",
+      "gpu_pct": 100.0
+    }
+  ]
+}
