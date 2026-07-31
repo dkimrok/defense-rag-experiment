@@ -1,0 +1,25 @@
+# Knowledge Before Models — replication requirements
+# Python 3.10 or later.
+#
+# Versions are given as lower bounds rather than pins. The pipeline uses only
+# stable APIs from these packages, and pinning to the exact versions used in
+# 2026 would make the deposit harder to run, not easier.
+
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+
+# Hybrid retrieval
+rank-bm25>=0.2.2
+sentence-transformers>=2.2      # pulls torch and transformers
+
+# Notes
+#
+# index/bm25.pkl is NOT included in this deposit. rank_bm25 pickles contain a
+# live BM25Okapi object, so a pickle written by one version may fail to load
+# under another. Regenerate it with 24_build_index.py.
+#
+# Generation and judging run against a local Ollama server
+# (https://ollama.com); it is not a Python dependency. See README section 2
+# for the model tags used.

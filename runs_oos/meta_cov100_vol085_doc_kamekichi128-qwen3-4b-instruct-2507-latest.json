@@ -1,0 +1,28 @@
+{
+  "variant": "corpus_cov100_vol085_doc.jsonl",
+  "condition": "cov100_vol085_doc",
+  "model": "kamekichi128/qwen3-4b-instruct-2507:latest",
+  "k": 5,
+  "alpha": 0.5,
+  "num_ctx": 16384,
+  "retrieval": "hybrid",
+  "query_cache": true,
+  "ollama_host": "http://127.0.0.1:11434",
+  "num_predict": 256,
+  "think": false,
+  "n_questions": 25,
+  "n_ok": 25,
+  "n_error": 0,
+  "n_trunc_suspect": 0,
+  "max_prompt_tokens": 3429,
+  "recall_at_k_any": 0,
+  "aborted": false,
+  "gpu": [
+    {
+      "name": "kamekichi128/qwen3-4b-instruct-2507:latest",
+      "gpu_pct": 100.0,
+      "size": 5098103111,
+      "size_vram": 5098103111
+    }
+  ]
+}

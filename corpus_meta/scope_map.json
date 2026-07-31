@@ -1,0 +1,1927 @@
+{
+ "군인사법": {
+  "name": "군인사법",
+  "citations": 4,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(군인사법)"
+ },
+ "공무원징계령": {
+  "name": "공무원징계령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원 징계령)"
+ },
+ "방위산업기술보호법": {
+  "name": "방위산업기술보호법",
+  "citations": 26,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위산업기술보호법)"
+ },
+ "행정서비스 헌장 규정 (대통령훈령)": {
+  "name": "행정서비스 헌장 규정 (대통령훈령)",
+  "citations": 2,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공무원보수규정": {
+  "name": "공무원보수규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원보수규정)"
+ },
+ "방위사업법 시행령": {
+  "name": "방위사업법 시행령",
+  "citations": 138,
+  "tier": "T2_대통령령",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국가를 당사자로 하는 계약에 관한 법률 시행령": {
+  "name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+  "citations": 161,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가를 당사자로 하는 계약에 관한 법률)"
+ },
+ "국가를 당사자로 하는 계약에 관한 법률 시행규칙": {
+  "name": "국가를 당사자로 하는 계약에 관한 법률 시행규칙",
+  "citations": 30,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가를 당사자로 하는 계약에 관한 법률)"
+ },
+ "국가를 당사자로 하는 계약에 관한 법률": {
+  "name": "국가를 당사자로 하는 계약에 관한 법률",
+  "citations": 39,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가를 당사자로 하는 계약에 관한 법률)"
+ },
+ "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률": {
+  "name": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률",
+  "citations": 16,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률)"
+ },
+ "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령": {
+  "name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(부패방지 및 국민권익위원회의 설치와 운영에 관한 법률)"
+ },
+ "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률": {
+  "name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+  "citations": 20,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(부패방지 및 국민권익위원회의 설치와 운영에 관한 법률)"
+ },
+ "행정절차법": {
+  "name": "행정절차법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(행정절차법)"
+ },
+ "국가공무원법": {
+  "name": "국가공무원법",
+  "citations": 16,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가공무원법)"
+ },
+ "군용항공기 비행안전성 인증에 관한 법률": {
+  "name": "군용항공기 비행안전성 인증에 관한 법률",
+  "citations": 37,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(군용항공기 비행안전성 인증에 관한 법률)"
+ },
+ "방위사업법": {
+  "name": "방위사업법",
+  "citations": 185,
+  "tier": "T1_법률",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "항공안전법": {
+  "name": "항공안전법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(항공안전법)"
+ },
+ "부정청탁 및 금품등 수수의 금지에 관한 법률 시행령": {
+  "name": "부정청탁 및 금품등 수수의 금지에 관한 법률 시행령",
+  "citations": 19,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(부정청탁 및 금품등 수수의 금지에 관한 법률)"
+ },
+ "부정청탁 및 금품등 수수의 금지에 관한 법률": {
+  "name": "부정청탁 및 금품등 수수의 금지에 관한 법률",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(부정청탁 및 금품등 수수의 금지에 관한 법률)"
+ },
+ "공직자윤리법": {
+  "name": "공직자윤리법",
+  "citations": 5,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공직자윤리법)"
+ },
+ "공직자윤리법 시행령": {
+  "name": "공직자윤리법 시행령",
+  "citations": 3,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공직자윤리법)"
+ },
+ "국가채권관리법": {
+  "name": "국가채권관리법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가채권관리법)"
+ },
+ "국고금관리법": {
+  "name": "국고금관리법",
+  "citations": 9,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국고금관리법)"
+ },
+ "국고금 관리법 시행령": {
+  "name": "국고금 관리법 시행령",
+  "citations": 9,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국고금관리법)"
+ },
+ "물품관리법": {
+  "name": "물품관리법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(물품관리법)"
+ },
+ "국유재산법": {
+  "name": "국유재산법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국유재산법)"
+ },
+ "방위산업기술 보호지침(이하 ‘지침’이라 한다)": {
+  "name": "방위산업기술 보호지침(이하 ‘지침’이라 한다)",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '방위산업기술 보호지침' 와 유사도 0.90"
+ },
+ "전자거래기본법": {
+  "name": "전자거래기본법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(전자거래기본법)"
+ },
+ "전자서명법": {
+  "name": "전자서명법",
+  "citations": 5,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(전자서명법)"
+ },
+ "국방전자조달시스템 이용에 관한 약관": {
+  "name": "국방전자조달시스템 이용에 관한 약관",
+  "citations": 3,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "역경매입찰 특별유의서": {
+  "name": "역경매입찰 특별유의서",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "공공감사에 관한 법률": {
+  "name": "공공감사에 관한 법률",
+  "citations": 14,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공감사에 관한 법률)"
+ },
+ "적극행정 운영규정": {
+  "name": "적극행정 운영규정",
+  "citations": 5,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(적극행정 운영규정)"
+ },
+ "방위산업 발전 및 지원에 관한 법률 시행령": {
+  "name": "방위산업 발전 및 지원에 관한 법률 시행령",
+  "citations": 7,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위산업 발전 및 지원에 관한 법률)"
+ },
+ "방위산업 발전 및 지원에 관한 법률": {
+  "name": "방위산업 발전 및 지원에 관한 법률",
+  "citations": 38,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위산업 발전 및 지원에 관한 법률)"
+ },
+ "국방전력발전업무훈령": {
+  "name": "국방전력발전업무훈령",
+  "citations": 21,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-3 국방부 획득절차 훈령(국방전력발전업무훈령)"
+ },
+ "방위사업법 시행규칙": {
+  "name": "방위사업법 시행규칙",
+  "citations": 27,
+  "tier": "T3_부령",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "회계관계직원 등의 책임에 관한 법률": {
+  "name": "회계관계직원 등의 책임에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업관리규정": {
+  "name": "방위사업관리규정",
+  "citations": 47,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "과학기술기본법": {
+  "name": "과학기술기본법",
+  "citations": 4,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(과학기술기본법)"
+ },
+ "방위산업물자 및 방위산업체 지정 규정": {
+  "name": "방위산업물자 및 방위산업체 지정 규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국방과학기술혁신 촉진법 시행령": {
+  "name": "국방과학기술혁신 촉진법 시행령",
+  "citations": 57,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국방과학기술혁신 촉진법)"
+ },
+ "국방과학기술혁신 촉진법": {
+  "name": "국방과학기술혁신 촉진법",
+  "citations": 72,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국방과학기술혁신 촉진법)"
+ },
+ "방산원가대상물자의 원가계산에 관한 규칙": {
+  "name": "방산원가대상물자의 원가계산에 관한 규칙",
+  "citations": 78,
+  "tier": "T3_부령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방산원가대상물자의 원가계산에 관한 규칙)"
+ },
+ "방위산업에 관한 착수금 및 중도금 지급규칙": {
+  "name": "방위산업에 관한 착수금 및 중도금 지급규칙",
+  "citations": 23,
+  "tier": "T3_부령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위산업에 관한 착수금 및 중도금 지급규칙)"
+ },
+ "방산원가대상물자의 원가계산에 관한 시행세칙": {
+  "name": "방산원가대상물자의 원가계산에 관한 시행세칙",
+  "citations": 13,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "행정기관의 조직과 정원에 관한 통칙": {
+  "name": "행정기관의 조직과 정원에 관한 통칙",
+  "citations": 2,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공직자의 이해충돌방지법 시행령": {
+  "name": "공직자의 이해충돌방지법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공직자의 이해충돌 방지법)"
+ },
+ "공직자의 이해충돌 방지법": {
+  "name": "공직자의 이해충돌 방지법",
+  "citations": 45,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공직자의 이해충돌 방지법)"
+ },
+ "고등교육법": {
+  "name": "고등교육법",
+  "citations": 7,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(고등교육법)"
+ },
+ "중소기업기본법": {
+  "name": "중소기업기본법",
+  "citations": 21,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(중소기업기본법)"
+ },
+ "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법": {
+  "name": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법",
+  "citations": 8,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(중견기업 성장촉진 및 경쟁력 강화에 관한 특별법)"
+ },
+ "방위산업기술보호법 시행령": {
+  "name": "방위산업기술보호법 시행령",
+  "citations": 12,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위산업기술보호법)"
+ },
+ "보조금 관리에 관한 법률": {
+  "name": "보조금 관리에 관한 법률",
+  "citations": 9,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(보조금 관리에 관한 법률)"
+ },
+ "총포화약법": {
+  "name": "총포화약법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "군용총포ㆍ도검ㆍ화약류 허가ㆍ감독 지침": {
+  "name": "군용총포ㆍ도검ㆍ화약류 허가ㆍ감독 지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '군용총포·도검·화약류 허가·감독에 관한 지침' 와 유사도 0.91"
+ },
+ "방위산업보안업무훈령": {
+  "name": "방위산업보안업무훈령",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "unobtainable_cited",
+  "reason": "수집불가(방위산업보안업무훈령) — 미공개 추정, 접근불가 문항 원천"
+ },
+ "국세징수법시행령": {
+  "name": "국세징수법시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "전자정부법시행령": {
+  "name": "전자정부법시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(전자정부법)"
+ },
+ "군수품조달관리규정": {
+  "name": "군수품조달관리규정",
+  "citations": 58,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국가정보원법": {
+  "name": "국가정보원법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "중증장애인생산품 우선구매 특별법": {
+  "name": "중증장애인생산품 우선구매 특별법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "중증장애인생산품 우선구매 특별법 시행령": {
+  "name": "중증장애인생산품 우선구매 특별법 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위산업에 관한 계약사무 처리규칙": {
+  "name": "방위산업에 관한 계약사무 처리규칙",
+  "citations": 13,
+  "tier": "T3_부령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위산업에 관한 계약사무 처리규칙)"
+ },
+ "군수품관리법 시행령": {
+  "name": "군수품관리법 시행령",
+  "citations": 3,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(군수품관리법)"
+ },
+ "청 홈페이지 관리 및 운영 매뉴얼": {
+  "name": "청 홈페이지 관리 및 운영 매뉴얼",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "정부광고 시행에 관한 규정": {
+  "name": "정부광고 시행에 관한 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "정부광고 업무 시행지침": {
+  "name": "정부광고 업무 시행지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "하도급법": {
+  "name": "하도급법",
+  "citations": 15,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(하도급법)"
+ },
+ "표준화 업무규정": {
+  "name": "표준화 업무규정",
+  "citations": 11,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "본인서명사실 확인 등에 관한 법률": {
+  "name": "본인서명사실 확인 등에 관한 법률",
+  "citations": 9,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(본인서명사실 확인 등에 관한 법률)"
+ },
+ "방위사업 품질관리 규정": {
+  "name": "방위사업 품질관리 규정",
+  "citations": 6,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국가재정법 시행령": {
+  "name": "국가재정법 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가재정법)"
+ },
+ "소프트웨어 진흥법": {
+  "name": "소프트웨어 진흥법",
+  "citations": 6,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(소프트웨어 진흥법)"
+ },
+ "우주개발 진흥법": {
+  "name": "우주개발 진흥법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "정보화 업무 처리 규정": {
+  "name": "정보화 업무 처리 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '(방위사업청) 정보화 업무 처리 규정' 와 유사도 0.90"
+ },
+ "행정소송법": {
+  "name": "행정소송법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(행정소송법)"
+ },
+ "국가를 당사자로 하는 소송에 관한 법률": {
+  "name": "국가를 당사자로 하는 소송에 관한 법률",
+  "citations": 6,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가를 당사자로 하는 소송에 관한 법률)"
+ },
+ "감사원 감사사무 처리규칙": {
+  "name": "감사원 감사사무 처리규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "특정범죄신고자 등 보호법": {
+  "name": "특정범죄신고자 등 보호법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "형사소송법": {
+  "name": "형사소송법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(형사소송법)"
+ },
+ "외국환거래법": {
+  "name": "외국환거래법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "금융기관의 업무위탁 등에 관한 규정": {
+  "name": "금융기관의 업무위탁 등에 관한 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "민법": {
+  "name": "민법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(민법)"
+ },
+ "공무원임용령": {
+  "name": "공무원임용령",
+  "citations": 23,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원임용령)"
+ },
+ "국제계약지원단 운용규정": {
+  "name": "국제계약지원단 운용규정",
+  "citations": 3,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '국제계약지원단 운영규정' 와 유사도 0.91"
+ },
+ "국제계약지원단 운영규정": {
+  "name": "국제계약지원단 운영규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "양성평등기본법": {
+  "name": "양성평등기본법",
+  "citations": 5,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(양성평등기본법)"
+ },
+ "성폭력방지 및 피해자보호 등에 관한 법률": {
+  "name": "성폭력방지 및 피해자보호 등에 관한 법률",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(성폭력방지 및 피해자보호 등에 관한 법률)"
+ },
+ "여성폭력방지기본법": {
+  "name": "여성폭력방지기본법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "성폭력범죄의 처벌 등에 관한 특례법": {
+  "name": "성폭력범죄의 처벌 등에 관한 특례법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(성폭력범죄의 처벌 등에 관한 특례법)"
+ },
+ "국가공무원 복무규정": {
+  "name": "국가공무원 복무규정",
+  "citations": 4,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가공무원 복무규정)"
+ },
+ "군수품관리법": {
+  "name": "군수품관리법",
+  "citations": 5,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(군수품관리법)"
+ },
+ "공무원 제안 규정": {
+  "name": "공무원 제안 규정",
+  "citations": 5,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원 제안 규정)"
+ },
+ "공무원 제안 규정 시행규칙": {
+  "name": "공무원 제안 규정 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원 제안 규정)"
+ },
+ "공공데이터의 제공 및 이용 활성화에 관한 법률": {
+  "name": "공공데이터의 제공 및 이용 활성화에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "전기통신기본법": {
+  "name": "전기통신기본법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "개인정보보호법": {
+  "name": "개인정보보호법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(개인정보 보호법)"
+ },
+ "전자정부법": {
+  "name": "전자정부법",
+  "citations": 8,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(전자정부법)"
+ },
+ "지능정보화기본법": {
+  "name": "지능정보화기본법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "소프트웨어 진흥법 시행령": {
+  "name": "소프트웨어 진흥법 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(소프트웨어 진흥법)"
+ },
+ "정보통신기반보호법": {
+  "name": "정보통신기반보호법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공공기록물 관리에 관한 법률": {
+  "name": "공공기록물 관리에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공기록물 관리에 관한 법률)"
+ },
+ "공공기록물 관리에 관한 법률 시행령": {
+  "name": "공공기록물 관리에 관한 법률 시행령",
+  "citations": 7,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공기록물 관리에 관한 법률)"
+ },
+ "공공기록물 관리에 관한 법률 시행규칙": {
+  "name": "공공기록물 관리에 관한 법률 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공기록물 관리에 관한 법률)"
+ },
+ "스토킹방지 및 피해자보호 등에 관한 법률": {
+  "name": "스토킹방지 및 피해자보호 등에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "스토킹범죄의 처벌 등에 관한 법률": {
+  "name": "스토킹범죄의 처벌 등에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "가정폭력방지 및 피해자보호 등에 관한 법률": {
+  "name": "가정폭력방지 및 피해자보호 등에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "성매매방지 및 피해자보호 등에 관한 법률": {
+  "name": "성매매방지 및 피해자보호 등에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업청 내 위원회의 투명한 운영에 관한 규정": {
+  "name": "방위사업청 내 위원회의 투명한 운영에 관한 규정",
+  "citations": 11,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국방정보보안시스템업무훈령": {
+  "name": "국방정보보안시스템업무훈령",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공공용 주파수 업무처리지침": {
+  "name": "공공용 주파수 업무처리지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "관세법": {
+  "name": "관세법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(관세법)"
+ },
+ "개별소비세법": {
+  "name": "개별소비세법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "통계법": {
+  "name": "통계법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(통계법)"
+ },
+ "예정가격작성기준": {
+  "name": "예정가격작성기준",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(예정가격작성기준)"
+ },
+ "조달사업에 관한 법률 시행령": {
+  "name": "조달사업에 관한 법률 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(조달사업에 관한 법률)"
+ },
+ "부가가치세법 시행령": {
+  "name": "부가가치세법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "조달청 군 급식품목 가격협의위원회 운영규정": {
+  "name": "조달청 군 급식품목 가격협의위원회 운영규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(조달청 군 급식품목 가격협의위원회 운영규정)"
+ },
+ "정책자문위원회규정": {
+  "name": "정책자문위원회규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '방위사업청 정책자문위원회 규정' 와 유사도 0.90"
+ },
+ "국가연구개발혁신법 시행령": {
+  "name": "국가연구개발혁신법 시행령",
+  "citations": 11,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국가연구개발혁신법)"
+ },
+ "국가연구개발혁신법": {
+  "name": "국가연구개발혁신법",
+  "citations": 30,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국가연구개발혁신법)"
+ },
+ "국가과학기술자문회의법": {
+  "name": "국가과학기술자문회의법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "민ㆍ군기술협력사업 촉진법": {
+  "name": "민ㆍ군기술협력사업 촉진법",
+  "citations": 29,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(민ㆍ군기술협력사업 촉진법)"
+ },
+ "산업기술혁신촉진법": {
+  "name": "산업기술혁신촉진법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(산업기술혁신촉진법)"
+ },
+ "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률": {
+  "name": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "선행연구 수행지침": {
+  "name": "선행연구 수행지침",
+  "citations": 4,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "민원 처리에 관한 법률": {
+  "name": "민원 처리에 관한 법률",
+  "citations": 6,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(민원 처리에 관한 법률)"
+ },
+ "경제안보를 위한 공급망 안정화 지원 기본법": {
+  "name": "경제안보를 위한 공급망 안정화 지원 기본법",
+  "citations": 10,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(경제안보를 위한 공급망 안정화 지원 기본법)"
+ },
+ "방위산업육성 지원사업 공통 운영규정": {
+  "name": "방위산업육성 지원사업 공통 운영규정",
+  "citations": 8,
+  "tier": "T4_행정규칙",
+  "scope": "abolished_cited",
+  "reason": "폐지·후속없음(방위산업육성 지원사업 공통 운영규정) — dangling reference 문항 원천"
+ },
+ "언론중재 및 피해구제 등에 관한 법률": {
+  "name": "언론중재 및 피해구제 등에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국회법": {
+  "name": "국회법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "군용총포ㆍ도검ㆍ화약류 허가ㆍ감독에 관한 지침": {
+  "name": "군용총포ㆍ도검ㆍ화약류 허가ㆍ감독에 관한 지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "전략물자 수출입고시": {
+  "name": "전략물자 수출입고시",
+  "citations": 10,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(전략물자 수출입고시)"
+ },
+ "대외무역법 시행령": {
+  "name": "대외무역법 시행령",
+  "citations": 3,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(대외무역법)"
+ },
+ "방위산업기술 보호지침": {
+  "name": "방위산업기술 보호지침",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "대외무역법": {
+  "name": "대외무역법",
+  "citations": 4,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(대외무역법)"
+ },
+ "자본시장과 금융투자업에 관한 법률": {
+  "name": "자본시장과 금융투자업에 관한 법률",
+  "citations": 7,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(자본시장과 금융투자업에 관한 법률)"
+ },
+ "벤처투자 촉진에 관한 법률": {
+  "name": "벤처투자 촉진에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "여신전문금융업법": {
+  "name": "여신전문금융업법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "자본시장과 금융투자업에 관한 법률 시행령": {
+  "name": "자본시장과 금융투자업에 관한 법률 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(자본시장과 금융투자업에 관한 법률)"
+ },
+ "공무원수당 등에 관한 규정": {
+  "name": "공무원수당 등에 관한 규정",
+  "citations": 5,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원수당 등에 관한 규정)"
+ },
+ "군인 등의 특수근무수당에 관한 규칙": {
+  "name": "군인 등의 특수근무수당에 관한 규칙",
+  "citations": 4,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(군인 등의 특수근무수당에 관한 규칙)"
+ },
+ "국방기술 연구개발 업무처리지침": {
+  "name": "국방기술 연구개발 업무처리지침",
+  "citations": 9,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국가재정법": {
+  "name": "국가재정법",
+  "citations": 5,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가재정법)"
+ },
+ "국가회계법": {
+  "name": "국가회계법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가회계법)"
+ },
+ "공감법 시행령": {
+  "name": "공감법 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공감법)"
+ },
+ "공공기관의 정보공개에 관한 법률": {
+  "name": "공공기관의 정보공개에 관한 법률",
+  "citations": 9,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공기관의 정보공개에 관한 법률)"
+ },
+ "학술진흥 및 학자금 대출 신용보증 등에 관한 법률": {
+  "name": "학술진흥 및 학자금 대출 신용보증 등에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국민건강증진법": {
+  "name": "국민건강증진법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "군사기밀보호법": {
+  "name": "군사기밀보호법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "보안업무 규정(방위사업청훈령)": {
+  "name": "보안업무 규정(방위사업청훈령)",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "정부업무평가 기본법": {
+  "name": "정부업무평가 기본법",
+  "citations": 4,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(정부업무평가기본법)"
+ },
+ "형법": {
+  "name": "형법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "독점규제 및 공정거래에 관한 법률": {
+  "name": "독점규제 및 공정거래에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "선금지급조건": {
+  "name": "선금지급조건",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "전자문서 및 전자거래 기본법": {
+  "name": "전자문서 및 전자거래 기본법",
+  "citations": 8,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(전자문서 및 전자거래 기본법)"
+ },
+ "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정": {
+  "name": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정",
+  "citations": 8,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가를 당사자로 하는 계약에 관한 법률)"
+ },
+ "국가종합전자조달시스템 보증서 수납에 관한 협약": {
+  "name": "국가종합전자조달시스템 보증서 수납에 관한 협약",
+  "citations": 3,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가종합전자조달시스템 보증서 수납에 관한 협약)"
+ },
+ "인지세법": {
+  "name": "인지세법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "행정업무의 효율적 운영에 관한 규정 시행규칙": {
+  "name": "행정업무의 효율적 운영에 관한 규정 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률": {
+  "name": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업청과 그 소속기관 직제": {
+  "name": "방위사업청과 그 소속기관 직제",
+  "citations": 2,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "민원 처리에 관한 법률 시행령": {
+  "name": "민원 처리에 관한 법률 시행령",
+  "citations": 3,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(민원 처리에 관한 법률)"
+ },
+ "공무원임용시험령": {
+  "name": "공무원임용시험령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "근로기준법": {
+  "name": "근로기준법",
+  "citations": 8,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(근로기준법)"
+ },
+ "아동ㆍ청소년의 성보호에 관한 법률": {
+  "name": "아동ㆍ청소년의 성보호에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "기간제 및 단시간근로자 보호 등에 관한 법률": {
+  "name": "기간제 및 단시간근로자 보호 등에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "회계관계공무원 재정보증 규정": {
+  "name": "회계관계공무원 재정보증 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '방위사업청 회계관계공무원 재정보증 규정' 와 유사도 0.90"
+ },
+ "모자보건법": {
+  "name": "모자보건법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국민건강보험법": {
+  "name": "국민건강보험법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "군수품 관리훈령": {
+  "name": "군수품 관리훈령",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-3 국방부 획득절차 훈령(군수품 관리훈령)"
+ },
+ "산업표준화법 시행령": {
+  "name": "산업표준화법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업기획ㆍ관리 실무위원회 운영규정": {
+  "name": "방위사업기획ㆍ관리 실무위원회 운영규정",
+  "citations": 8,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국방과학 기술료 산정ㆍ징수방법 및 징수절차 등에 관한 고시": {
+  "name": "국방과학 기술료 산정ㆍ징수방법 및 징수절차 등에 관한 고시",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "특허법": {
+  "name": "특허법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국제경쟁력강화 지원사업 운영규정": {
+  "name": "국제경쟁력강화 지원사업 운영규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "신용정보의 이용 및 보호에 관한 법률": {
+  "name": "신용정보의 이용 및 보호에 관한 법률",
+  "citations": 5,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(신용정보의 이용 및 보호에 관한 법률)"
+ },
+ "중소기업제품 구매촉진 및 판로지원에 관한 법률": {
+  "name": "중소기업제품 구매촉진 및 판로지원에 관한 법률",
+  "citations": 6,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(중소기업제품 구매촉진 및 판로지원에 관한 법률)"
+ },
+ "공익신고자 보호법": {
+  "name": "공익신고자 보호법",
+  "citations": 22,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공익신고자 보호법)"
+ },
+ "개인정보 보호법 시행령": {
+  "name": "개인정보 보호법 시행령",
+  "citations": 2,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(개인정보 보호법)"
+ },
+ "국외조달 일반경쟁 입찰유의서": {
+  "name": "국외조달 일반경쟁 입찰유의서",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "방산 중소기업 수출지원사업 운영 규정": {
+  "name": "방산 중소기업 수출지원사업 운영 규정",
+  "citations": 9,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "공공재정 환수법": {
+  "name": "공공재정 환수법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위력개선사업 협상에 의한 계약체결기준": {
+  "name": "방위력개선사업 협상에 의한 계약체결기준",
+  "citations": 7,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "동법 시행령": {
+  "name": "동법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE noise: 법령명이 아닌 지시어/조각"
+ },
+ "산업안전보건법": {
+  "name": "산업안전보건법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국방사업 총사업비 관리지침": {
+  "name": "국방사업 총사업비 관리지침",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "unobtainable_cited",
+  "reason": "수집불가(국방사업 총사업비 관리지침) — 미공개 추정, 접근불가 문항 원천"
+ },
+ "건설기술진흥법": {
+  "name": "건설기술진흥법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "정보통신공사업법 시행령": {
+  "name": "정보통신공사업법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "군수품 조달의 조달청 위탁에 관한 공동훈령(이하 공동훈령이라 한다.)": {
+  "name": "군수품 조달의 조달청 위탁에 관한 공동훈령(이하 공동훈령이라 한다.)",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '군수품 조달의 조달청 위탁에 관한 공동훈령' 와 유사도 0.90"
+ },
+ "방산 중소기업 지원사업 운영을 위한 위원회 운영규정": {
+  "name": "방산 중소기업 지원사업 운영을 위한 위원회 운영규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "절충교역 지침": {
+  "name": "절충교역 지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "무기체계 부품국산화개발 관리규정": {
+  "name": "무기체계 부품국산화개발 관리규정",
+  "citations": 5,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "법인세법 시행령": {
+  "name": "법인세법 시행령",
+  "citations": 5,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(법인세법)"
+ },
+ "엔지니어링산업진흥법 시행령": {
+  "name": "엔지니어링산업진흥법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "법인세법 시행규칙": {
+  "name": "법인세법 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(법인세법)"
+ },
+ "법인세법": {
+  "name": "법인세법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(법인세법)"
+ },
+ "자산재평가법": {
+  "name": "자산재평가법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위산업 이차보전사업 운영규정": {
+  "name": "방위산업 이차보전사업 운영규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국방과학기술혁신 촉진법 시행규칙": {
+  "name": "국방과학기술혁신 촉진법 시행규칙",
+  "citations": 9,
+  "tier": "T3_부령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국방과학기술혁신 촉진법)"
+ },
+ "산업교육진흥 및 산학연협력촉진에 관한 법률": {
+  "name": "산업교육진흥 및 산학연협력촉진에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "고등교육법 시행령": {
+  "name": "고등교육법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(고등교육법)"
+ },
+ "방산혁신기업 100 프로젝트 운영규정": {
+  "name": "방산혁신기업 100 프로젝트 운영규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "소프트웨어산업 진흥법": {
+  "name": "소프트웨어산업 진흥법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "엔지니어링산업 진흥법": {
+  "name": "엔지니어링산업 진흥법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "산업입지 및 개발에 관한 법률": {
+  "name": "산업입지 및 개발에 관한 법률",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "재난 및 안전관리 기본법": {
+  "name": "재난 및 안전관리 기본법",
+  "citations": 30,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(재난 및 안전관리 기본법)"
+ },
+ "공무원 징계령 시행규칙": {
+  "name": "공무원 징계령 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원 징계령)"
+ },
+ "주식회사 등의 외부감사에 관한 법률": {
+  "name": "주식회사 등의 외부감사에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국방과학연구소법": {
+  "name": "국방과학연구소법",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국방과학연구소법)"
+ },
+ "대ㆍ중소기업 상생협력 촉진에 관한 법률": {
+  "name": "대ㆍ중소기업 상생협력 촉진에 관한 법률",
+  "citations": 3,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(대ㆍ중소기업 상생협력 촉진에 관한 법률)"
+ },
+ "방위산업 국가정책사업 지정 등에 관한 고시": {
+  "name": "방위산업 국가정책사업 지정 등에 관한 고시",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "개방형 직위 및 공모 직위의 운영 등에 관한 규정": {
+  "name": "개방형 직위 및 공모 직위의 운영 등에 관한 규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업청과 그 소속기관 직제 시행규칙": {
+  "name": "방위사업청과 그 소속기관 직제 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공무원 임용규칙": {
+  "name": "공무원 임용규칙",
+  "citations": 2,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공무원 인사 운영에 관한 특례규정": {
+  "name": "공무원 인사 운영에 관한 특례규정",
+  "citations": 3,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원 인사 운영에 관한 특례규정)"
+ },
+ "전문직공무원 인사규칙": {
+  "name": "전문직공무원 인사규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "공공감사에 관한 법률 시행령": {
+  "name": "공공감사에 관한 법률 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공감사에 관한 법률)"
+ },
+ "정부조직법": {
+  "name": "정부조직법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(정부조직법)"
+ },
+ "공무원징계령(대통령령)": {
+  "name": "공무원징계령(대통령령)",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원 징계령)"
+ },
+ "공무원인재개발법 시행령": {
+  "name": "공무원인재개발법 시행령",
+  "citations": 3,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공무원인재개발법)"
+ },
+ "방산물자등의 정부간 판매에 관한 규정": {
+  "name": "방산물자등의 정부간 판매에 관한 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "청원법": {
+  "name": "청원법",
+  "citations": 8,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(청원법)"
+ },
+ "방산 수출입 심사업무 훈령": {
+  "name": "방산 수출입 심사업무 훈령",
+  "citations": 3,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "공무원 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정": {
+  "name": "공무원 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국방 보안업무훈령": {
+  "name": "국방 보안업무훈령",
+  "citations": 3,
+  "tier": "T4_행정규칙",
+  "scope": "unobtainable_cited",
+  "reason": "수집불가(국방 보안업무훈령) — 미공개 추정, 접근불가 문항 원천"
+ },
+ "공공기관의정보공개에관한법률시행령": {
+  "name": "공공기관의정보공개에관한법률시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(공공기관의 정보공개에 관한 법률)"
+ },
+ "국가연구개발사업 동시수행 연구개발과제수 제한기준": {
+  "name": "국가연구개발사업 동시수행 연구개발과제수 제한기준",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국방과학연구소법 시행령": {
+  "name": "국방과학연구소법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(국방과학연구소법)"
+ },
+ "공공기관의 운영에 관한 법률": {
+  "name": "공공기관의 운영에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업감독관 직무 등에 관한 규칙": {
+  "name": "방위사업감독관 직무 등에 관한 규칙",
+  "citations": 4,
+  "tier": "T3_부령",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-2 방위사업·국방R&D·군수 법령계통(방위사업감독관 직무 등에 관한 규칙)"
+ },
+ "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령": {
+  "name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업청 당직근무 지침": {
+  "name": "방위사업청 당직근무 지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "교통사고처리 특례법": {
+  "name": "교통사고처리 특례법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "행정권한의 위임 및 위탁에 관한 규정": {
+  "name": "행정권한의 위임 및 위탁에 관한 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "행정업무의 운영 및 혁신에 관한 규정": {
+  "name": "행정업무의 운영 및 혁신에 관한 규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "총수명주기관리업무 훈령": {
+  "name": "총수명주기관리업무 훈령",
+  "citations": 3,
+  "tier": "UNK",
+  "scope": "in_scope_to_collect",
+  "reason": "IN-3 국방부 획득절차 훈령(총수명주기관리업무훈령)"
+ },
+ "중소기업 기술혁신 촉진법": {
+  "name": "중소기업 기술혁신 촉진법",
+  "citations": 4,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(중소기업 기술혁신 촉진법)"
+ },
+ "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률": {
+  "name": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "지방자치단체출연 연구원의 설립 및 운영에 관한 법률": {
+  "name": "지방자치단체출연 연구원의 설립 및 운영에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "특정연구기관 육성법": {
+  "name": "특정연구기관 육성법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "상법": {
+  "name": "상법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업관리규정(방위사업청 훈령)": {
+  "name": "방위사업관리규정(방위사업청 훈령)",
+  "citations": 2,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '방위사업관리규정' 와 유사도 0.90"
+ },
+ "산업기술혁신사업 공통운영 요령": {
+  "name": "산업기술혁신사업 공통운영 요령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "재난 및 안전관리 기본법 시행령": {
+  "name": "재난 및 안전관리 기본법 시행령",
+  "citations": 3,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(재난 및 안전관리 기본법)"
+ },
+ "국방부장관의 소속청장 지휘에 관한 규칙": {
+  "name": "국방부장관의 소속청장 지휘에 관한 규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "정부대표 및 특별사절의 임명과 권한에 관한 법률": {
+  "name": "정부대표 및 특별사절의 임명과 권한에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "전기통신사업법": {
+  "name": "전기통신사업법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "보안업무규정 시행규칙": {
+  "name": "보안업무규정 시행규칙",
+  "citations": 1,
+  "tier": "T3_부령",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국적법": {
+  "name": "국적법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "(방위사업청) 표창규정": {
+  "name": "(방위사업청) 표창규정",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "무기체계 소프트웨어 개발 지원에 관한 규정": {
+  "name": "무기체계 소프트웨어 개발 지원에 관한 규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국외 상업구매 업무지침": {
+  "name": "국외 상업구매 업무지침",
+  "citations": 10,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "신속시범사업 업무관리 지침": {
+  "name": "신속시범사업 업무관리 지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "소기업 및 소상공인지원을 위한특별조치법": {
+  "name": "소기업 및 소상공인지원을 위한특별조치법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업 민원사무처리규정": {
+  "name": "방위사업 민원사무처리규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "벤처기업육성에 관한 특별법": {
+  "name": "벤처기업육성에 관한 특별법",
+  "citations": 2,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국방전자조달시스템 전자입찰 특별유의서": {
+  "name": "국방전자조달시스템 전자입찰 특별유의서",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "국방전자조달시스템 전자계약 사무처리 지침": {
+  "name": "국방전자조달시스템 전자계약 사무처리 지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "조달원 등록정보 관리 지침": {
+  "name": "조달원 등록정보 관리 지침",
+  "citations": 2,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "물품구매(제조) 계약일반조건": {
+  "name": "물품구매(제조) 계약일반조건",
+  "citations": 4,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(물품구매(제조) 계약일반조건)"
+ },
+ "목표가격 관리지침": {
+  "name": "목표가격 관리지침",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "정부 입찰ㆍ계약 집행기준": {
+  "name": "정부 입찰ㆍ계약 집행기준",
+  "citations": 6,
+  "tier": "T4_행정규칙",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(정부 입찰ㆍ계약 집행기준)"
+ },
+ "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법": {
+  "name": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업관리규정(이하 \"규정\"이라 한다)": {
+  "name": "방위사업관리규정(이하 \"규정\"이라 한다)",
+  "citations": 1,
+  "tier": "UNK",
+  "scope": "in_scope",
+  "reason": "OVERRIDE name_variant: 수집문서 '방위사업관리규정' 와 유사도 0.90"
+ },
+ "형의 실효 등에 관한 법률": {
+  "name": "형의 실효 등에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "비상대비에 관한 법률": {
+  "name": "비상대비에 관한 법률",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "국가채권관리법 시행령": {
+  "name": "국가채권관리법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(국가채권관리법)"
+ },
+ "보험업법": {
+  "name": "보험업법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "항만운송사업법": {
+  "name": "항만운송사업법",
+  "citations": 1,
+  "tier": "T1_법률",
+  "scope": "out_of_scope",
+  "reason": "OVERRIDE P3 기본값(인용 2회 이하 외부 일반법)"
+ },
+ "방위사업 감독규정": {
+  "name": "방위사업 감독규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "군인사법 시행령": {
+  "name": "군인사법 시행령",
+  "citations": 1,
+  "tier": "T2_대통령령",
+  "scope": "out_of_scope",
+  "reason": "OUT 범부처 일반법(군인사법)"
+ },
+ "방산원가관리체계 인증제도 운영지침": {
+  "name": "방산원가관리체계 인증제도 운영지침",
+  "citations": 6,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ },
+ "획득단계 수명주기관리규정": {
+  "name": "획득단계 수명주기관리규정",
+  "citations": 1,
+  "tier": "T4_행정규칙",
+  "scope": "in_scope",
+  "reason": "IN-1 방위사업청 소관 행정규칙(수집완료)"
+ }
+}

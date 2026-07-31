@@ -1,0 +1,33 @@
+Knowledge Before Models — replication package
+Copyright (c) 2026 Dongjin Kim, Korea Institute for Defense Analyses
+
+This deposit contains two kinds of material under two licenses.
+
+  scripts/            MIT License. See LICENSE.
+  questions/          Creative Commons Attribution 4.0 International.
+  runs/               See LICENSE-CC-BY-4.0.txt.
+  runs_closedbook/
+  runs_oos/
+  grade_out/
+  grade_oos/
+  analysis/
+  audit/
+  conditions/
+  corpus_meta/
+  figures/
+
+Plaintext marking, following the pattern Creative Commons publishes for
+projects that bundle license text:
+
+  Knowledge Before Models: replication package (c) 2026 by Dongjin Kim
+  is licensed under a Creative Commons Attribution 4.0 International
+  License. You should have received a copy of the license along with this
+  work. If not, see <https://creativecommons.org/licenses/by/4.0/>.
+
+A note on the provision text included in questions/. Excerpts of Korean
+statutes and administrative rules appear as gold evidence in the question
+files. Under Article 7 of the Korean Copyright Act, statutes, decrees,
+ordinances and rules are excluded from copyright protection, so no
+third-party license attaches to them. The CC BY 4.0 grant above covers the
+selection, annotation, and arrangement of that material, which is the
+authorial contribution here.

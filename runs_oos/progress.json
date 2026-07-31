@@ -1,0 +1,77 @@
+{
+ "responses_cov100_vol030_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol030_doc_qwen3-8b.jsonl",
+  "seconds": 225
+ },
+ "responses_cov100_vol055_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol055_doc_qwen3-8b.jsonl",
+  "seconds": 130
+ },
+ "responses_cov100_vol070_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol070_doc_qwen3-8b.jsonl",
+  "seconds": 138
+ },
+ "responses_cov100_vol085_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol085_doc_qwen3-8b.jsonl",
+  "seconds": 136
+ },
+ "responses_cov100_vol040_doc_qwen3-8b": {
+  "status": "done",
+  "file": "responses_cov100_vol040_doc_qwen3-8b.jsonl",
+  "note": "복제: responses_cov100_vol030_doc_qwen3-8b.jsonl"
+ },
+ "responses_cov100_vol030_doc_kamekichi128-qwen3-4b-instruct-2507-latest": {
+  "status": "done",
+  "file": "responses_cov100_vol030_doc_kamekichi128-qwen3-4b-instruct-2507-latest.jsonl",
+  "seconds": 100
+ },
+ "responses_cov100_vol055_doc_kamekichi128-qwen3-4b-instruct-2507-latest": {
+  "status": "done",
+  "file": "responses_cov100_vol055_doc_kamekichi128-qwen3-4b-instruct-2507-latest.jsonl",
+  "seconds": 80
+ },
+ "responses_cov100_vol070_doc_kamekichi128-qwen3-4b-instruct-2507-latest": {
+  "status": "done",
+  "file": "responses_cov100_vol070_doc_kamekichi128-qwen3-4b-instruct-2507-latest.jsonl",
+  "seconds": 86
+ },
+ "responses_cov100_vol085_doc_kamekichi128-qwen3-4b-instruct-2507-latest": {
+  "status": "done",
+  "file": "responses_cov100_vol085_doc_kamekichi128-qwen3-4b-instruct-2507-latest.jsonl",
+  "seconds": 85
+ },
+ "responses_cov100_vol040_doc_kamekichi128-qwen3-4b-instruct-2507-latest": {
+  "status": "done",
+  "file": "responses_cov100_vol040_doc_kamekichi128-qwen3-4b-instruct-2507-latest.jsonl",
+  "note": "복제: responses_cov100_vol030_doc_kamekichi128-qwen3-4b-instruct-2507-latest.jsonl"
+ },
+ "responses_cov100_vol030_doc_qwen3-14b": {
+  "status": "done",
+  "file": "responses_cov100_vol030_doc_qwen3-14b.jsonl",
+  "seconds": 305
+ },
+ "responses_cov100_vol055_doc_qwen3-14b": {
+  "status": "done",
+  "file": "responses_cov100_vol055_doc_qwen3-14b.jsonl",
+  "seconds": 215
+ },
+ "responses_cov100_vol070_doc_qwen3-14b": {
+  "status": "done",
+  "file": "responses_cov100_vol070_doc_qwen3-14b.jsonl",
+  "seconds": 236
+ },
+ "responses_cov100_vol085_doc_qwen3-14b": {
+  "status": "done",
+  "file": "responses_cov100_vol085_doc_qwen3-14b.jsonl",
+  "seconds": 232
+ },
+ "responses_cov100_vol040_doc_qwen3-14b": {
+  "status": "done",
+  "file": "responses_cov100_vol040_doc_qwen3-14b.jsonl",
+  "note": "복제: responses_cov100_vol030_doc_qwen3-14b.jsonl"
+ }
+}
