@@ -5,8 +5,8 @@ Replication material for:
 > Kim, Dongjin. "Knowledge Before Models: A Coverage Audit for Air-Gapped
 > Retrieval-Augmented Generation." *AI Magazine* (under review).
 
-**Archived version (cite this):** Zenodo DOI `10.5281/zenodo.XXXXXXX`
-**Development version:** `https://github.com/USER/REPO`
+**Archived version (cite this):** Zenodo DOI `[10.5281/zenodo.21712890]`
+**Development version:** `https://github.com/dkimrok/defense-rag-experiment`
 
 The study manipulates two factors that are normally confounded — how much of the
 task a corpus covers, and how large the corpus is — and measures their separate
@@ -290,7 +290,7 @@ material.
   title     = {Knowledge Before Models: replication package},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.21712890}
 }
 
 @article{kim2026coverage,
