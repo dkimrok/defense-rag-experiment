@@ -27,6 +27,7 @@ keywords:
   - defense acquisition
 license: CC-BY-4.0
 version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.21712890
 date-released: "2026-07-30"
 repository-code: "https://github.com/dkimrok/defense-rag-experiment"
 preferred-citation:
