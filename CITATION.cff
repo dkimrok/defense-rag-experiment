@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Knowledge Before Models: replication package"
+message: >-
+  If you use this material, please cite both the archived deposit
+  and the article.
+type: dataset
+authors:
+  - given-names: Dongjin
+    family-names: Kim
+    orcid: "https://orcid.org/0009-0009-6414-3477"
+    affiliation: Korea Institute for Defense Analyses
+abstract: >-
+  Replication material for a study separating task-relative knowledge
+  coverage from corpus size in air-gapped retrieval-augmented
+  generation. Contains the evaluation pipeline, 122 hand-written
+  evaluation questions over Korean defense acquisition law, per-condition
+  model responses for 30 corpus conditions and three open-weight models,
+  a closed-book control arm, grading output, and the analysis that
+  produces every table and figure in the article.
+keywords:
+  - retrieval-augmented generation
+  - knowledge coverage
+  - air-gapped AI
+  - calibration
+  - selective prediction
+  - attribution
+  - defense acquisition
+license: CC-BY-4.0
+doi: 10.5281/zenodo.XXXXXXX
+version: 1.0.0
+date-released: "2026-07-30"
+repository-code: "https://github.com/USER/REPO"
+preferred-citation:
+  type: article
+  title: >-
+    Knowledge Before Models: A Coverage Audit for Air-Gapped
+    Retrieval-Augmented Generation
+  authors:
+    - given-names: Dongjin
+      family-names: Kim
+      orcid: "https://orcid.org/0009-0009-6414-3477"
+      affiliation: Korea Institute for Defense Analyses
+  journal: AI Magazine
+  year: 2026
+  notes: Under review

@@ -1,0 +1,47 @@
+{
+  "unique_variants": [
+    "cov_core\\corpus_cov000_core_doc.jsonl",
+    "cov_core\\corpus_cov010_core_doc.jsonl",
+    "cov_core\\corpus_cov025_core_doc.jsonl",
+    "cov_core\\corpus_cov040_core_doc.jsonl",
+    "cov_core\\corpus_cov055_core_doc.jsonl",
+    "cov_core\\corpus_cov070_core_doc.jsonl",
+    "cov_core\\corpus_cov085_core_doc.jsonl",
+    "cov_core\\corpus_cov100_core_doc.jsonl",
+    "cov_periph\\corpus_cov000_periph_doc.jsonl",
+    "cov_periph\\corpus_cov010_periph_doc.jsonl",
+    "cov_periph\\corpus_cov025_periph_doc.jsonl",
+    "cov_periph\\corpus_cov040_periph_doc.jsonl",
+    "cov_periph\\corpus_cov055_periph_doc.jsonl",
+    "cov_periph\\corpus_cov070_periph_doc.jsonl",
+    "cov_periph\\corpus_cov085_periph_doc.jsonl",
+    "cov_random\\corpus_cov010_random_doc.jsonl",
+    "cov_random\\corpus_cov025_random_doc.jsonl",
+    "cov_random\\corpus_cov040_random_doc.jsonl",
+    "cov_random\\corpus_cov055_random_doc.jsonl",
+    "cov_random\\corpus_cov070_random_doc.jsonl",
+    "cov_random\\corpus_cov085_random_doc.jsonl",
+    "cov_vol\\corpus_cov100_vol030_doc.jsonl",
+    "cov_vol\\corpus_cov100_vol055_doc.jsonl",
+    "cov_vol\\corpus_cov100_vol070_doc.jsonl",
+    "cov_vol\\corpus_cov100_vol085_doc.jsonl"
+  ],
+  "duplicate_groups": [
+    [
+      "cov_core\\corpus_cov100_core_doc.jsonl",
+      "cov_periph\\corpus_cov100_periph_doc.jsonl",
+      "cov_random\\corpus_cov100_random_doc.jsonl",
+      "cov_vol\\corpus_cov100_vol100_doc.jsonl"
+    ],
+    [
+      "cov_periph\\corpus_cov000_periph_doc.jsonl",
+      "cov_random\\corpus_cov000_random_doc.jsonl"
+    ],
+    [
+      "cov_vol\\corpus_cov100_vol030_doc.jsonl",
+      "cov_vol\\corpus_cov100_vol040_doc.jsonl"
+    ]
+  ],
+  "n_total": 30,
+  "n_unique": 25
+}
