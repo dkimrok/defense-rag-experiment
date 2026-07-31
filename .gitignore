@@ -1,218 +1,65 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[codz]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# PyInstaller
-#   Usually these files are written by a python script from a template
-#   before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py.cover
-.hypothesis/
-.pytest_cache/
-cover/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-.pybuilder/
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-#   For a library or package, you might want to ignore these files since the code is
-#   intended to run in multiple environments; otherwise, check them in:
-# .python-version
-
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-# Pipfile.lock
-
-# UV
-#   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
-#   This is especially recommended for binary packages to ensure reproducibility, and is more
-#   commonly ignored for libraries.
-# uv.lock
-
-# poetry
-#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
-#   This is especially recommended for binary packages to ensure reproducibility, and is more
-#   commonly ignored for libraries.
-#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
-# poetry.lock
-# poetry.toml
-
-# pdm
-#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
-#   pdm recommends including project-wide configuration in pdm.toml, but excluding .pdm-python.
-#   https://pdm-project.org/en/latest/usage/project/#working-with-version-control
-# pdm.lock
-# pdm.toml
-.pdm-python
-.pdm-build/
-
-# pixi
-#   Similar to Pipfile.lock, it is generally recommended to include pixi.lock in version control.
-# pixi.lock
-#   Pixi creates a virtual environment in the .pixi directory, just like venv module creates one
-#   in the .venv directory. It is recommended not to include this directory in version control.
-.pixi
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# Redis
-*.rdb
-*.aof
-*.pid
-
-# RabbitMQ
-mnesia/
-rabbitmq/
-rabbitmq-data/
-
-# ActiveMQ
-activemq-data/
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
+# ── 인증값 ────────────────────────────────────────────────────────────
+# 법제처 OPEN API 의 OC 값이 파일로 들어가지 않도록 한다.
 .env
-.envrc
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+*.env
+law_oc.txt
+secrets.json
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# ── 원본 API 응답 ─────────────────────────────────────────────────────
+# 08 / 13 이 내려받는 원본. 문서 판본은 corpus_meta/corpus_manifest.json 이
+# 지목하므로, 원본을 담지 않아도 같은 판본을 다시 받을 수 있다.
+raw/
+inspect_out/
 
-# Rope project settings
-.ropeproject
+# ── 파이프라인 중간 산출물 ────────────────────────────────────────────
+# 스크립트가 결정론적으로 다시 만든다. 사람 판단이 들어간
+# corpus_meta/scope_map.json 은 예외이므로 커밋한다.
+corpus_units.jsonl
+corpus_units_law.jsonl
+corpus_units_admrul_scope.jsonl
+corpus_final.jsonl
+scope_map_v2.json
+scope_overrides.json
+triage_auto.json
+triage_worksheet.md
+l3_candidates.jsonl
+l3_final.jsonl
+l3_rejected.jsonl
+l3_revalidated.jsonl
+gap_*.jsonl
+collect_scope_result.json
+*_report.md
+!grade_out/grade_report.md
+!analysis*/analysis_report.md
 
-# mkdocs documentation
-/site
+# ── 색인 ──────────────────────────────────────────────────────────────
+# 24_build_index.py 가 다시 만든다.
+index/embeddings.npy          # 약 30MB
+index/bm25.pkl                # rank_bm25 버전이 다르면 언피클 실패
+index/query_cache*.npz        # 25 첫 실행 시 자동 생성
+index/index_meta.json
+# index/chunks.jsonl 은 공개 여부를 따로 판단한다. 넣기로 했다면
+# 아래 줄을 지운다.
+index/chunks.jsonl
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+# ── 조건 코퍼스 ───────────────────────────────────────────────────────
+# 30개 변형. 30_regen.py 가 다시 만든다. coverage_manifest.json 은 커밋한다.
+cov_*/corpus_cov*.jsonl
 
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# PyCharm
-#   JetBrains specific template is maintained in a separate JetBrains.gitignore that can
-#   be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
-#   and can be added to the global gitignore or merged into this file.  For a more nuclear
-#   option (not recommended) you can uncomment the following to ignore the entire idea folder.
-# .idea/
-
-# Abstra
-#   Abstra is an AI-powered process automation framework.
-#   Ignore directories containing user credentials, local state, and settings.
-#   Learn more at https://abstra.io/docs
-.abstra/
-
-# Visual Studio Code
-#   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
-#   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-#   and can be added to the global gitignore or merged into this file. However, if you prefer, 
-#   you could uncomment the following to ignore the entire vscode folder
-# .vscode/
-# Temporary file for partial code execution
-tempCodeRunnerFile.py
-
-# Ruff stuff:
-.ruff_cache/
-
-# PyPI configuration file
-.pypirc
-
-# Marimo
-marimo/_static/
-marimo/_lsp/
-__marimo__/
-
-# Streamlit
-.streamlit/secrets.toml
+# ── 작업 파일 ─────────────────────────────────────────────────────────
+*.bak
+*.jsonl.bak
+snapshot_*.zip
+ALL_*.zip
+RESULTS_*.zip
+CLOSEDBOOK_*.zip
+GRADE_OUT.zip
+ollama*.log
+run_gpu*.log
+judge_gpu*.log
+cb_gpu*.log
+oos_*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
